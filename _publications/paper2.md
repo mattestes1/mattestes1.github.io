@@ -1,6 +1,5 @@
 ---
 title:          "Justice Divided, Justice Denied?"
-subtitle:       "Testing"
 date:           2025-03-15 12:00:00 -0800
 selected:       true
 # pub:            "International Conference on Machine Learning (ICML)"
