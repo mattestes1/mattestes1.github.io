@@ -25,13 +25,11 @@ short_bio: >-
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  # Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: California Institute of Technology
-  position: >- 
-    Department of Social Sciences <br/>
-    Ph.D. Student
+  position: Ph.D. 
   date: Sep. 2021 - present
 - name: University of Chicago Law School
   position: J.D. 
