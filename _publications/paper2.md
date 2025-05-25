@@ -1,22 +1,19 @@
 ---
 title:          "Justice Divided, Justice Denied?"
-date:           2024-05-12 00:01:00 +0800
+subtitle:       "Testing"
+date:           2025-03-15 12:00:00 -0800
 selected:       true
-pub:            "International Conference on Machine Learning (ICML)"
-# pub_pre:        "Submitted to "
+# pub:            "International Conference on Machine Learning (ICML)"
+pub_pre:        "Under review."
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2024"
+# pub_date:       "2024"
 
 abstract: >-
-  Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
-cover:          /assets/images/covers/cover3.jpg
+  We collect eviction records to test whether court assignment effects the default eviction probability in LA County. Using a regression discontinuity design, we find point estimates between 0.7-23.1 percentage points.
+cover:          /assets/paper_plots/JusticeDivided.png
 authors:
-  - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
+  - Matthew Estes
+  - Kyle Nelson
 links:
-  Code: https://github.com/luost26/academic-homepage
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  Paper: /assets/papers/EstesNelson2025_LACountyEvictions.pdf
 ---
