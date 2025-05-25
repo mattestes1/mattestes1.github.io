@@ -28,12 +28,15 @@ portrait_url: /assets/images/photos/portrait.jpg
 
 education:
 - name: California Institute of Technology
-  position: Ph.D. 
+  logo: /assets/images/badges/MIT_Social_circle.png
+  position: Ph.D. Student
   date: Sep. 2021 - present
 - name: University of Chicago Law School
+  logo: /assets/images/badges/MIT_Social_circle.png
   position: J.D. 
   date: June 2021
 - name: Harvard University
+  logo: /assets/images/badges/MIT_Social_circle.png
   position: A.B. in Mathematics
   date: May 2018
 
