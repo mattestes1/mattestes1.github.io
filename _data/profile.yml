@@ -25,24 +25,6 @@ short_bio: >-
 
 portrait_url: /assets/images/photos/portrait.jpg
 
-- block: markdown
-  content:
-    title: Education
-    text: |
-      **California Institute of Technology**  
-      Ph.D. Student, Department of Social Sciences  
-      *Sep. 2021 – Present*
-
-      **University of Chicago Law School**  
-      J.D.  
-      *June 2021*
-
-      **Harvard University**  
-      A.B. in Mathematics  
-      *May 2018*
-
-
-
 
 education:
 - name: California Institute of Technology
