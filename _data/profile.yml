@@ -31,17 +31,14 @@ portrait_caption: >-
 
 education:
 - name: California Institute of Technology
-  # logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
     Department of Social Sciences <br/>
     Ph.D. Student
   date: Sep. 2021 - present
 - name: University of Chicago Law School
-  # logo: /assets/images/badges/PKU_red.png
   position: J.D. 
   date: June 2021
 - name: Harvard University
- # logo: /assets/images/badges/PKU_red.png
   position: A.B. in Mathematics
   date: May 2018
 
