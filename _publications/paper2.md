@@ -3,8 +3,8 @@ title:          "Justice Divided, Justice Denied?"
 date:           2025-03-15 12:00:00 -0800
 selected:       true
 # pub:            "International Conference on Machine Learning (ICML)"
-pub_pre:        "Under review."
-# pub_post:       'Under review.'
+pub_pre:        "Under review"
+# pub_post:       'Under review'
 # pub_date:       "2024"
 
 abstract: >-
