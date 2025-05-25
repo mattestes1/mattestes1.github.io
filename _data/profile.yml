@@ -2,8 +2,8 @@ primary_name: "Matthew Estes"
 secondary_name: ""
 navbar_name: "Matthew Estes"
 
-positions:
- - name: PhD Student
+# positions:
+# - name: PhD Student
 
 
 email: "mestes@caltech.edu"
