@@ -22,7 +22,7 @@ substack: https://counterfictionals.substack.com
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a Ph.D. student at Caltech. My research focuses on law and economics, empirical legal studies, and econometrics. Currently, I am interested in housing and eviction policy.
+    I am a fourth-year Economics Ph.D. student at Caltech. My research focuses on law and economics, empirical legal studies, and econometrics. Currently, I am interested in housing and eviction policy.
   </p>
 
 portrait_url: /assets/images/photos/portrait.png
@@ -31,7 +31,7 @@ portrait_url: /assets/images/photos/portrait.png
 education:
 - name: California Institute of Technology
   logo: /assets/images/badges/Caltech_shield.png
-  position: Ph.D. Student
+  position: Ph.D. in Economics
   date: Sep. 2021 - present
 - name: University of Chicago Law School
   logo: /assets/images/badges/UChicago_shield.png
