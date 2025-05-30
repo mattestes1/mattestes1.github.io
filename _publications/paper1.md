@@ -10,7 +10,8 @@ abstract: >-
 cover:          /assets/paper_plots/CourtingTheAcademy.png
 authors:
 - Matthew Estes
-- Ransi Clark
+# - Ransi Clark
+- "[Ransi Clark](https://www.ransiclark.com)"
 links:
   Paper: /assets/papers/EstesClark2025_CourtingTheAcademy.pdf
 ---
