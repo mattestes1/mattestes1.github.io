@@ -42,8 +42,8 @@ education:
   position: A.B. in Mathematics
   date: May 2018
 
-jmp:
-  title: Job Market Paper
-  name: JMP
-  link: 
+awards:
+  - name: <a href="/" target="_blank">JMP</a>
+    date: 
+
 
