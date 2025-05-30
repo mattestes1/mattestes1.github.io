@@ -49,23 +49,27 @@
                     </div>
                     {% endif %}
 
+
                     {% if site.data.profile.awards %}
                     <div class="col-md-6">
-                        <div class="mx-2 my-1">
+                      <div class="mx-2 my-1">
                             <h6>Job Market Paper</h6>
-                            <ul class="list small pl-3 mb-1">
-                                {% for item in site.data.profile.awards %}
-                                <li>
-                                    <div class="d-flex">
-                                        <div>{{ item.name }}</div>
-                                        <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
-                                    </div>
-                                </li>
-                                {% endfor %}
-                            </ul>
-                        </div>
+                            {% for item in site.data.profile.awards %}
+                              <div>
+                                <div class="mb-1 font-weight-bold">
+                                  {{ item.name }}
+                                </div>
+                            {% if item.description %}
+                            <div class="small mb-2">
+                              {{ item.description }}
+                            </div>
+                            {% endif %}
+                          </div>
+                        {% endfor %}
+                      </div>
                     </div>
                     {% endif %}
+
 
                 </div>
 
