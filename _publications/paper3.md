@@ -11,5 +11,5 @@ abstract: >-
 authors:
 - Matthew Estes
 links:
-  Paper: /assets/papers/Estes2025_EvictionReduction.pdf
+  Summary: /assets/papers/Estes2025_EvictionReduction.pdf
 ---
