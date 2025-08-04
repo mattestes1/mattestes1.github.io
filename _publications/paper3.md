@@ -7,7 +7,7 @@ selected:       true
 # pub_date:       
 abstract: >-
   I study the relationship between two court policies on default eviction. Exploiting the court assignment mechanism and an expansion to the number of courts, I estimate the effect of distance-to-court on eviction outcomes.
-# cover:          /assets/paper_plots/CourtingTheAcademy.png
+cover:          /assets/paper_plots/did_results5.png
 authors:
 - Matthew Estes
 links:
