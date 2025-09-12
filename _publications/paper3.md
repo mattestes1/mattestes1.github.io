@@ -7,7 +7,7 @@ selected:       true
 # pub_date:       
 abstract: >-
   I study the relationship between court policy and default eviction. Exploiting an expansion to the number of courts, I estimate the effect of distance-to-court on eviction outcomes and find limited evidence of default reduction.
-cover:          /assets/paper_plots/court_map_changes_presentation.pdf
+cover:          /assets/paper_plots/court_map_changes_presentation.png
 authors:
 - Matthew Estes
 links:
