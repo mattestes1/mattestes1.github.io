@@ -2,7 +2,7 @@
 title:          "Courting the Academy"
 date:           2025-04-30 12:00:00 -0800 
 selected:       true
-# pub:          "Under review"
+pub:          35 Kansas Journal of Law & Public Policy
 # pub_pre:        "Under review"
 # pub_date:       
 abstract: >-
