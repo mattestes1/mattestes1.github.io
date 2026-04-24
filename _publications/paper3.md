@@ -11,6 +11,6 @@ cover:          /assets/paper_plots/court_map_changes_presentation.png
 authors:
 - Matthew Estes
 links:
-  Summary: /assets/papers/Estes2025_EvictionReduction_summary.pdf
+  Summary: https://counterfictionals.substack.com/p/eviction-reduction-via-court-policy
   Paper: /assets/papers/Estes2025_EvictionReduction.pdf
 ---
